@@ -1,4 +1,4 @@
-![image](https://github.com/2023-Winter-Bootcamp-TeamG/.github/assets/129928913/b41e3334-8776-4e16-8525-11121593519b)# DoodleFilm
+# DoodleFilm
 # Instruction
 프레임에 맞춰 사진을 찍고 커스텀 서비스
 </br>
