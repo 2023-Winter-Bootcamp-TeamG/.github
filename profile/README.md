@@ -2,7 +2,7 @@
 # Instruction
 프레임에 맞춰 사진을 찍고 커스텀 서비스
 </br>
-[It'me?! medium](https://medium.com/@hgh1057/its-me-46d9de903a94)
+[DoodleFilm medium](https://medium.com/@hgh1057/its-me-46d9de903a94)
 # DEMO
 | 메인화면 & 회원가입 | 질문 생성 |
 | :---: | :---: |
