@@ -56,6 +56,6 @@ Kibana | Elasticsearch에 저장된 로그를 Kibana를 통해 분석 및 시각
 
 | Name | 황장현 | 김정우 | 김진우 | 이윤서 | 주영준 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | 
-| Profile | ![황장현](https://github.com/2023-Winter-Bootcamp-TeamG/.github/tree/main/assets/Janghyun) | ![김정우](https://github.com/2023-Winter-Bootcamp-TeamG/.github/tree/main/assets/Jeongwoo) | ![김진우](https://github.com/2023-Winter-Bootcamp-TeamG/.github/tree/main/assets/Jinwoo) | ![이윤서](https://github.com/2023-Winter-Bootcamp-TeamG/.github/tree/main/assets/Yunseo) | ![주영준](https://github.com/2023-Winter-Bootcamp-TeamG/.github/tree/main/assets/Yeongjun) | 
+| Profile | ![황장현](https://github.com/2023-Winter-Bootcamp-TeamG/.github/tree/main/assets/Janghyun)<br> | ![김정우](https://github.com/2023-Winter-Bootcamp-TeamG/.github/tree/main/assets/Jeongwoo)<br> | ![김진우](https://github.com/2023-Winter-Bootcamp-TeamG/.github/tree/main/assets/Jinwoo)<br> | ![이윤서](https://github.com/2023-Winter-Bootcamp-TeamG/.github/tree/main/assets/Yunseo)<br> | ![주영준](https://github.com/2023-Winter-Bootcamp-TeamG/.github/tree/main/assets/Yeongjun)<br> | 
 | Role | Team Leader</br>Frontend| Backend<br>DevOps | Backend<br>DevOps | Backend<br>DevOps | Frontend |
 | GitHub | [JH722](https://github.com/JH722) | [lockyous](https://github.com/lockyous) | [jinu0328](https://github.com/jinu0328) | [LeeYunseo04](https://github.com/LeeYunseo04) | [Ye0ngjun](https://github.com/Ye0ngjun) |
