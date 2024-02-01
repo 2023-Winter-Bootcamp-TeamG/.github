@@ -30,6 +30,7 @@
 
 
 # API
+![api_1](https://github.com/2023-Winter-Bootcamp-TeamG/.github/blob/main/assets/api_1.png)<br> ![api_2](https://github.com/2023-Winter-Bootcamp-TeamG/.github/blob/main/assets/api_2.png)<br> ![api_3](https://github.com/2023-Winter-Bootcamp-TeamG/.github/blob/main/assets/api_3.png)<br>
 
 
 
