@@ -4,15 +4,14 @@
 </br>
 [DoodleFilm](https://medium.com/@wndudwns6824/6e2a73f0c838)
 # DEMO
-| 메인화면 & 회원가입 | 질문 생성 |
+| 회원가입 & 로그인 | 사진프레임선택, 배경선택 |
 | :---: | :---: |
 | |  | 
-| **답변 & 캐릭터 생성** | **마이페이지 & 링크 복사** |
+| **사진찍기 & 업로드** | **사진필터 & 커스텀** |
 |||
-| **상세 페이지**| **키워드 차트**|
+| **사진저장**| **앨범페이지 & 사진 수정**|
 |||
-|**중복 캐릭터 생성 & 이미지 다운로드**|
-||
+
 
 # System Architecture
 ![teamg doodlefilm (6)](https://github.com/2023-Winter-Bootcamp-TeamG/.github/blob/main/assets/system.png)
