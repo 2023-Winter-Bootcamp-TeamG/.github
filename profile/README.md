@@ -2,17 +2,17 @@
 # Instruction
 프레임에 맞춰 사진을 찍고 커스텀 서비스
 </br>
-[DoodleFilm medium]([https://medium.com/@wndudwns6824/6e2a73f0c838](https://medium.com/@wndudwns6824/2023-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EA%B2%A8%EC%9A%B8-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-doodlefilm-6e2a73f0c838))
+[DoodleFilm](https://medium.com/@wndudwns6824/6e2a73f0c838)
 # DEMO
 | 메인화면 & 회원가입 | 질문 생성 |
 | :---: | :---: |
-| ![main_signup](https://github.com/2023-Summer-Bootcamp-Team-G/backend/assets/91904079/25394474-4278-4ded-9013-ce17bf0423b5)|![question](https://github.com/2023-Summer-Bootcamp-Team-G/backend/assets/91904079/f90b2188-d48d-4f42-af51-ffc6e69d65a5)  | 
+| |  | 
 | **답변 & 캐릭터 생성** | **마이페이지 & 링크 복사** |
-|![answer](https://github.com/2023-Summer-Bootcamp-Team-G/backend/assets/91904079/07d3aece-18e7-4b4d-8edc-482a6f6e6498)| ![mypage](https://github.com/2023-Summer-Bootcamp-Team-G/backend/assets/91904079/53093949-1718-4c6e-9dd0-5ae3050eb32d) |
+|||
 | **상세 페이지**| **키워드 차트**|
-|![detail](https://github.com/2023-Summer-Bootcamp-Team-G/backend/assets/91904079/0f8c513f-18fc-427a-817f-50183f3b02a9)|![chart](https://github.com/2023-Summer-Bootcamp-Team-G/backend/assets/91904079/cfcf7af9-b0b6-43d0-9523-f7ad0ebee511)|
+|||
 |**중복 캐릭터 생성 & 이미지 다운로드**|
-|![duplicate](https://github.com/2023-Summer-Bootcamp-Team-G/backend/assets/91904079/0b9191ed-1c9b-4b36-b2ed-c48a26ea760c)
+||
 
 # System Architecture
 ![teamg doodlefilm (6)](https://github.com/2023-Winter-Bootcamp-TeamG/.github/blob/main/assets/system.png)
