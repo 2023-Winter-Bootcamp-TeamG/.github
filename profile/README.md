@@ -15,7 +15,7 @@
 |![duplicate](https://github.com/2023-Summer-Bootcamp-Team-G/backend/assets/91904079/0b9191ed-1c9b-4b36-b2ed-c48a26ea760c)
 
 # System Architecture
-![teamg drawio (6)](https://github.com/2023-Summer-Bootcamp-Team-G/backend/assets/91904079/033c5dcd-f538-43c8-a1a5-5486108aa0c4)
+![teamg doodlefilm (6)](https://github.com/2023-Winter-Bootcamp-TeamG/.github/blob/main/assets/system.png)
 
 # Tech Stack
 
