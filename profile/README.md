@@ -1,6 +1,6 @@
 # DoodleFilm
 # Instruction
-프레임에 맞춰 사진을 찍고 커스텀 서비스
+사진을 찍고 꾸미고 저장할 수 있는 웹 서비스
 </br>
 [DoodleFilm](https://medium.com/@wndudwns6824/6e2a73f0c838)
 # DEMO
