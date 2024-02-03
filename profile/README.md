@@ -6,11 +6,11 @@
 # DEMO
 | 사진프레임선택, 배경선택 | 사진찍기, 업로드 |
 | :---: | :---: |
-| |  | 
+|![frame](https://github.com/2023-Winter-Bootcamp-TeamG/.github/blob/main/assets/1frame.gif) |![select](https://github.com/2023-Winter-Bootcamp-TeamG/.github/blob/main/assets/2select.gif)  | 
 | **사진필터, 커스텀** | **사진저장** |
-|||
+|![filter](https://github.com/2023-Winter-Bootcamp-TeamG/.github/blob/main/assets/3filter.gif)|![save](https://github.com/2023-Winter-Bootcamp-TeamG/.github/blob/main/assets/4save.gif)|
 | **앨범페이지**| **사진 수정**|
-|||
+|![album](https://github.com/2023-Winter-Bootcamp-TeamG/.github/blob/main/assets/5album.gif)|![edit](https://github.com/2023-Winter-Bootcamp-TeamG/.github/blob/main/assets/6edit.gif)|
 
 
 # System Architecture
